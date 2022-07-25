@@ -1,2 +1,2 @@
 .env
-./server/config/keys.js
+server/config/keys.js
